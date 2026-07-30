@@ -1,0 +1,18 @@
+BHAVYA AI RESUME ANALYZER — TEAM EDITION
+
+FIRST TIME ON A LAPTOP
+1. Extract the complete ZIP.
+2. Double-click setup_windows.bat.
+3. Choose whether to install the optional AI coach.
+4. Wait for "Setup complete".
+
+EVERY LATER TIME
+Double-click run_app.bat.
+
+CHECK THE INSTALLATION
+Double-click verify_setup.bat.
+
+STOP THE APP
+Press Ctrl + C in the terminal window.
+
+Do not copy .venv from another laptop. setup_windows.bat creates the correct environment automatically.

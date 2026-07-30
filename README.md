@@ -1,4 +1,4 @@
-# Bhavya AI Resume Analyzer — Team Edition
+# Job Description Keyword Gap Analyzer
 
 A local Streamlit application for two workflows:
 
